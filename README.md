@@ -30,6 +30,9 @@
  <br><br>
  
  <img alt="img" height="350" width="750" src="https://github.com/HercoZauZau/Gestor-De-Dados--frontend/blob/main/screenshots/gdc(9).png?raw=true">
+ <br><br>
+ 
+ <img alt="img" height="350" width="750" src="https://github.com/HercoZauZau/Gestor-De-Dados--frontend/blob/main/screenshots/gdc(10).png?raw=true">
 </div>
 
 ---
